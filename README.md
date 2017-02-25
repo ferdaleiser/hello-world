@@ -1,3 +1,3 @@
 # hello-world
 first repository 
-doing the whole verdion contral changing thing
+doing the whole version control changing thing
